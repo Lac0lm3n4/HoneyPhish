@@ -27,15 +27,13 @@ varios modulos y suplantacin de paginas, se recomienda camuflar el enlace con ma
 
 # Instalación:
 
-#apt update
-#apt install git
-Te logueas como super usuario en el caso de distribuciones linux con: -sudo su
-#git clone https://github.com/Lac0lm3n4/HoneyPhish.git
-#cd HoneyPhish
-#ls
-#./Honeyphish
-
-###### Recuerda dar permisos de almacenamiento a termux, para poder acceder a las imagenes:b
+#### apt update
+#### apt install git
+#### Te logueas como super usuario en el caso de distribuciones linux con: -sudo su
+#### git clone https://github.com/Lac0lm3n4/HoneyPhish.git
+#### cd HoneyPhish
+#### ls
+#### ./Honeyphish
 
 # Cambios en la versión V1:
 #### -Se añadierón nuevas paginas
