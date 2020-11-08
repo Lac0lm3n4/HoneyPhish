@@ -1,21 +1,7 @@
-# AIOPhish
+# HoneyPhish (SIRVE PARA DISTRIBUCIONES LINUX Y TERMUX)
 
-<p align="center">
-<a href="#"><img title="AIOPhish" src="https://emailspoofbyharris.000webhostapp.com/pro/aio.jpg"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/HarrisSec"><img title="Author" src="https://img.shields.io/badge/Author-DeepSociety-svg?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
-</p>
-
-<div align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.5-green.svg?style=flat-square"></a>
-<a href="https://github.com/DeepSociety/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeepSociety?color=blue&style=flat-square"></a>
-<a href="https://github.com/HarrisSec/AIOPhish/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HarrisSec/AIOPhish?color=red&style=flat-square"></a>
-<a href="https://github.com/HarrisSec/AIOPhish/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HarrisSec/AIOPhish?color=red&style=flat-square"></a>
-<a href="https://github.com/HarrisSec/AIOPhish/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HarrisSec/AIOPhish?label=Watchers&color=blue&style=flat-square"></a>
-</div>
+Esta herramienta esta enfocada para los usuarios de l4c0lm3n4, es una herramienta de phishing super personalizable....nos proporciona
+varios modulos y suplantacin de paginas, se recomienda camuflar el enlace con maskphish
 
 ### Opciones que nos brinda:
 
@@ -41,15 +27,17 @@
 
 # Instalación:
 
-* `apt update && apt upgrade -y`
-* `apt install git -y`
-* `git clone https://github.com/DeepSociety/AIOPhish`
-* `cd AIOPhish`
-* `./aiophish`
+#apt update
+#apt install git
+Te logueas como super usuario en el caso de distribuciones linux con: -sudo su
+#git clone https://github.com/Lac0lm3n4/HoneyPhish.git
+#cd HoneyPhish
+#ls
+#./Honeyphish
 
 ###### Recuerda dar permisos de almacenamiento a termux, para poder acceder a las imagenes:b
 
-# Cambios en la versión 2.5:
+# Cambios en la versión V1:
 #### -Se añadierón nuevas paginas
 #### -Nueva inferaz
 #### -Nueva opción para enviar correos falsos
@@ -60,5 +48,3 @@
 #### > DarksecDevelopers (https://github.com/DarkSecDevelopers/HiddenEye.git)
 ###  > Paginas wifi:
 #### > error404-notfound (https://github.com/error404-notfound/ScorpFish)
-
-##### Comparte el script :b
